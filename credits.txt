@@ -1,0 +1,21 @@
+WIDEPIX v0.5 beta
+
+Made by Nash Muhandes
+
+A collection of widescreen (up to 21:9!) 2D graphics replacements. Throw it in your autoload, enjoy widescreen images!
+
+NOTE: DO NOT include this mod in your modpacks. Permissions will be updated at a later time when my work is declared complete.
+
+CREDITS:
+
+id Software: Doom
+
+Nash Muhandes: Pixel pushing and painting (based on high res sources).
+
+Don Ivan Punchatz - Doom 1 cover artwork
+
+Gerald Brom - Doom 2 cover artwork
+
+Simon "fragglet" Howard: High res versions of the original cover artwork
+
+Kinsie: For pointing out I was wasting time doing the extensions by hand when source artwork exists :^)

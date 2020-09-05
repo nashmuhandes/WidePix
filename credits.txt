@@ -1,21 +1,52 @@
-WIDEPIX v0.5 beta
+WidePix v1.0
+-------------
 
 Made by Nash Muhandes
 
-A collection of widescreen (up to 21:9!) 2D graphics replacements. Throw it in your autoload, enjoy widescreen images!
+(C) 2020 Nash Muhandes
 
-NOTE: DO NOT include this mod in your modpacks. Permissions will be updated at a later time when my work is declared complete.
+A collection of widescreen (up to 21:9!) 2D graphics replacements. Throw it in
+your autoload, enjoy widescreen images!
+
+Feel free to include WidePix in your mods, or use the graphics as a base for
+modification, as long as this credits file stays intact.
+
+--------------------------------------------------------------------------------
+
+NOTE:
+-----
+
+WidePix was conceived on March 15, 2020... way before there was any public
+knowledge about the September 2020 Doom Unity update that contained "official"
+widescreen patches.
+
+My goal was, and always will be, to make sure that the original 4:3 portion
+of the image stays _completely unaltered_. This is the main difference
+between WidePix and the Doom Unity widescreen images.
+
+So if you are wondering, what's the difference between this and that...
+there's my answer.
 
 CREDITS:
+--------
 
-id Software: Doom
+id Software: For making Doom.
 
-Nash Muhandes: Pixel pushing and painting (based on high res sources).
+Nash Muhandes: For making WidePix.
 
-Don Ivan Punchatz - Doom 1 cover artwork
+Gez: For telling me the exact dimensions needed for the 21:9 graphics.
 
-Gerald Brom - Doom 2 cover artwork
+Kinsie: For pointing out I was wasting time doing the extensions by hand when
+source artwork exists :^) Also for providing the unaltered Doom 1 Registered
+TITLEPIC (I only have access to Ultimate Doom).
 
-Simon "fragglet" Howard: High res versions of the original cover artwork
+-------------------------------------------------------------------------------
 
-Kinsie: For pointing out I was wasting time doing the extensions by hand when source artwork exists :^)
+Some high resolution images were used as a source to create the widescreen
+extensions. They are listed below.
+
+Don Ivan Punchatz - Doom 1 cover artwork.
+
+Gerald Brom - Doom 2 cover artwork.
+
+Simon "fragglet" Howard: High res versions of the original cover artwork.

@@ -16,16 +16,20 @@ modification, as long as this credits file stays intact.
 NOTE:
 -----
 
-WidePix was conceived on March 15, 2020... way before there was any public
-knowledge about the September 2020 Doom Unity update that contained "official"
-widescreen patches.
+WidePix was conceived on March 15, 2020, before there was any public knowledge
+about the widescreen images that shipped with the September 2020 update of the
+Unity port of Doom.
 
-My goal was, and always will be, to make sure that the original 4:3 portion
-of the image stays _completely unaltered_. This is the main difference
-between WidePix and the Doom Unity widescreen images.
+The key differences between my pack and the Unity pack are:
 
-So if you are wondering, what's the difference between this and that...
-there's my answer.
+- Completely built from the ground up (not based off the Unity graphics)
+- The original 4:3 portion is left completely unaltered
+- Ultrawide (21:9) aspect ratio support
+- Custom animation for Doom 1 Episode 3
+- Includes widescreen weapon sprite fixes (only Doom's Super Shotgun for now)
+
+Future updates will cover the other IWAD games (Heretic, Hexen, Strife, Chex
+Quest and Hacx). Stay tuned!
 
 CREDITS:
 --------
@@ -36,9 +40,7 @@ Nash Muhandes: For making WidePix.
 
 Gez: For telling me the exact dimensions needed for the 21:9 graphics.
 
-Kinsie: For pointing out I was wasting time doing the extensions by hand when
-source artwork exists :^) Also for providing the unaltered Doom 1 Registered
-TITLEPIC (I only have access to Ultimate Doom).
+Kinsie: For providing the unaltered Doom 1 Registered TITLEPIC.
 
 -------------------------------------------------------------------------------
 

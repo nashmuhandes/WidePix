@@ -5,11 +5,9 @@ Made by Nash Muhandes
 
 (C) 2020 Nash Muhandes
 
-A collection of widescreen (up to 21:9!) 2D graphics replacements. Throw it in
-your autoload, enjoy widescreen images!
+A collection of widescreen (up to 21:9!) 2D graphics replacements.
 
-Feel free to include WidePix in your mods, or use the graphics as a base for
-modification, as long as this credits file stays intact.
+Please see license.md for licensing info.
 
 --------------------------------------------------------------------------------
 

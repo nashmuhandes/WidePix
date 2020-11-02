@@ -4,7 +4,7 @@ WidePix
 
 LICENSE:
 
-You MAY make derivative works based on mine - HOWEVER:
+You MAY use, copy, modify, merge, publish, distribute, and/or sublicense this work - HOWEVER:
 
 - You may not sell this work
 

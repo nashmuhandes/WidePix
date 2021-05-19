@@ -1,9 +1,9 @@
-WidePix v1.0
+WidePix v1.1
 -------------
 
 Made by Nash Muhandes
 
-(C) 2020 Nash Muhandes
+(C) 2020 - 2021 Nash Muhandes
 
 A collection of widescreen (up to 21:9!) 2D graphics replacements.
 
@@ -24,10 +24,10 @@ The key differences between my pack and the Unity pack are:
 - The original 4:3 portion is left completely unaltered
 - Ultrawide (21:9) aspect ratio support
 - Custom animation for Doom 1 Episode 3
-- Includes widescreen weapon sprite fixes (only Doom's Super Shotgun for now)
+- [NEW!] Now includes support for Heretic and Hexen
+- Widescreen weapon sprite extensions (for Doom, Heretic and Hexen)
 
-Future updates will cover the other IWAD games (Heretic, Hexen, Strife, Chex
-Quest and Hacx). Stay tuned!
+Future updates will include Strife, Hacx and Chex Quest. Stay tuned!
 
 CREDITS:
 --------

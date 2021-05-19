@@ -40,6 +40,10 @@ Gez: For telling me the exact dimensions needed for the 21:9 graphics.
 
 Kinsie: For providing the unaltered Doom 1 Registered TITLEPIC.
 
+Rachael Alexanderson: Github maintenance help.
+
+Gez: Gave some tips on how to handle Wadsmoosh.
+
 -------------------------------------------------------------------------------
 
 Some high resolution images were used as a source to create the widescreen

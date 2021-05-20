@@ -5,7 +5,7 @@ Made by Nash Muhandes
 
 (C) 2020 - 2021 Nash Muhandes
 
-A collection of widescreen (up to 21:9!) 2D graphics replacements.
+Widescreen (16:9 and 21:9) graphical extensions for Doom, Heretic and Hexen.
 
 Please see license.md for licensing info.
 
@@ -21,13 +21,26 @@ Unity port of Doom.
 The key differences between my pack and the Unity pack are:
 
 - Completely built from the ground up (not based off the Unity graphics)
-- The original 4:3 portion is left completely unaltered
+- The original 4:3 portion is left completely unaltered*
 - Ultrawide (21:9) aspect ratio support
 - Custom animation for Doom 1 Episode 3
 - [NEW!] Now includes support for Heretic and Hexen
 - Widescreen weapon sprite extensions (for Doom, Heretic and Hexen)
 
-Future updates will include Strife, Hacx and Chex Quest. Stay tuned!
+* I would never arbitrarily change the center image as I feel it's important
+to preserve the original artwork. However, that said, there are some cases
+where alterations were unavoidable because not doing so would've made it
+impossible to extend the images. I have documented such cases below:
+
+TNT INTERPIC: There was a solid-black, 1-pixel border around the image.
+
+Hexen TITLEPIC and INTERPIC: There were what appeared to be anti-aliasing
+artifacts on the left and right borders.
+
+COMING SOON:
+------------
+
+Strife, Hacx and Chex Quest support. Stay tuned!
 
 CREDITS:
 --------
@@ -36,13 +49,12 @@ id Software: For making Doom.
 
 Nash Muhandes: For making WidePix.
 
-Gez: For telling me the exact dimensions needed for the 21:9 graphics.
+Gez: For telling me the exact dimensions needed for the 21:9 graphics, and tips
+on how to handle Wadsmoosh.
 
 Kinsie: For providing the unaltered Doom 1 Registered TITLEPIC.
 
 Rachael Alexanderson: Github maintenance help.
-
-Gez: Gave some tips on how to handle Wadsmoosh.
 
 -------------------------------------------------------------------------------
 

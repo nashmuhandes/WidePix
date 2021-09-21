@@ -24,23 +24,26 @@ The key differences between my pack and the Unity pack are:
 - The original 4:3 portion is left completely unaltered*
 - Ultrawide (21:9) aspect ratio support
 - Custom animation for Doom 1 Episode 3
-- [NEW!] Now includes support for Heretic and Hexen
+- [NEW!] Now includes support for Heretic, Hexen and Strife!
 - Widescreen weapon sprite extensions (for Doom, Heretic and Hexen)
 
-* I would never arbitrarily change the center image as I feel it's important
-to preserve the original artwork. However, that said, there are some cases
-where alterations were unavoidable because not doing so would've made it
-impossible to extend the images. I have documented such cases below:
+* I generally avoid changing the center image as I feel it's important to
+preserve the original artwork. However, that said, there are some cases where
+alterations were unavoidable because not doing so would've made it impossible
+to extend the images. I have documented such cases below:
 
 TNT INTERPIC: There was a solid-black, 1-pixel border around the image.
 
 Hexen TITLEPIC and INTERPIC: There were what appeared to be anti-aliasing
 artifacts on the left and right borders.
 
+Strife SS4F3, SS5F1, SS5F3, SS6F2, SS6F3, VELLOGO: Weird artifacts at the
+borders made the images impossible to extend.
+
 COMING SOON:
 ------------
 
-Strife, Hacx and Chex Quest support. Stay tuned!
+Chex Quest and Hacx support. Stay tuned!
 
 CREDITS:
 --------

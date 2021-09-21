@@ -1,6 +1,6 @@
 WidePix
 
-© 2020 Nash Muhandes
+© 2020 - 2021 Nash Muhandes
 
 LICENSE:
 

@@ -1,11 +1,18 @@
-WidePix v1.1
+WidePix v1.3
 -------------
 
 Made by Nash Muhandes
 
 (C) 2020 - 2021 Nash Muhandes
 
-Widescreen (16:9 and 21:9) graphical extensions for Doom, Heretic and Hexen.
+Widescreen (16:9 and 21:9) graphical extensions.
+
+Supported games:
+- Doom
+- Heretic
+- Hexen
+- Strife
+- Hacx
 
 Please see license.md for licensing info.
 
@@ -18,14 +25,13 @@ WidePix was conceived on March 15, 2020, before there was any public knowledge
 about the widescreen images that shipped with the September 2020 update of the
 Unity port of Doom.
 
-The key differences between my pack and the Unity pack are:
+Differences between WidePix and Doom Unity:
 
-- Completely built from the ground up (not based off the Unity graphics)
-- The original 4:3 portion is left completely unaltered*
+- Completely built from the ground up (not based off Doom Unity's graphics)
+- The original 4:3 portion is left completely unaltered where possible*
 - Ultrawide (21:9) aspect ratio support
 - Custom animation for Doom 1 Episode 3
-- [NEW!] Now includes support for Heretic, Hexen and Strife!
-- Widescreen weapon sprite extensions (for Doom, Heretic and Hexen)
+- Weapon sprite extensions (both horizontally/vertically, where applicable)
 
 * I generally avoid changing the center image as I feel it's important to
 preserve the original artwork. However, that said, there are some cases where
@@ -43,7 +49,7 @@ borders made the images impossible to extend.
 COMING SOON:
 ------------
 
-Chex Quest and Hacx support. Stay tuned!
+Extensions for Chex Quest. Stay tuned!
 
 CREDITS:
 --------

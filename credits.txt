@@ -12,7 +12,9 @@ Supported games:
 - Heretic
 - Hexen
 - Strife
+- Chex Quest
 - Hacx
+- Harmony
 
 Please see license.md for licensing info.
 
@@ -46,10 +48,7 @@ artifacts on the left and right borders.
 Strife SS4F3, SS5F1, SS5F3, SS6F2, SS6F3, VELLOGO: Weird artifacts at the
 borders made the images impossible to extend.
 
-COMING SOON:
-------------
-
-Extensions for Chex Quest. Stay tuned!
+Chex Quest WIMAP0: There's a bright 1-pixel-wide sliver to the left.
 
 CREDITS:
 --------

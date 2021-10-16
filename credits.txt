@@ -14,6 +14,7 @@ Supported games:
 - Strife
 - Chex Quest
 - Hacx
+- Harmony
 
 Please see license.md for licensing info.
 
@@ -48,11 +49,6 @@ Strife SS4F3, SS5F1, SS5F3, SS6F2, SS6F3, VELLOGO: Weird artifacts at the
 borders made the images impossible to extend.
 
 Chex Quest WIMAP0: There's a bright 1-pixel-wide sliver to the left.
-
-COMING SOON:
-------------
-
-Harmony support.
 
 CREDITS:
 --------
